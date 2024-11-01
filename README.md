@@ -1,0 +1,1 @@
+Understanding data structure can be effective during problem solving. This project helps to better understand data structure
